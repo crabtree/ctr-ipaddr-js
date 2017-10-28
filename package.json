@@ -1,0 +1,36 @@
+{
+  "name": "ctr-ipaddr",
+  "version": "0.0.1",
+  "description": "Work with IPv4 addresses",
+  "author": "Krystian Cieślik",
+  "license": "MIT",
+  "homepage": "https://github.com/crabtree/ctr-ipaddr-js#readme",
+  "bugs": {
+    "url": "https://github.com/crabtree/ctr-ipaddr-js/issues"
+  },
+  "keywords": [
+    "ipv4",
+    "netmask",
+    "ip",
+    "address",
+    "subnet",
+    "cidr"
+  ],
+  "main": "lib/index.js",
+  "engines": {
+    "node": ">= 7.5"
+  },
+  "scripts": {
+    "test": "nyc --reporter=html --reporter=text --reporter=lcov --exclude=**/*.spec.js mocha lib/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crabtree/ctr-ipaddr-js.git"
+  },
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "istanbul": "^0.4.5",
+    "mocha": "^4.0.1",
+    "nyc": "^11.2.1"
+  }
+}
