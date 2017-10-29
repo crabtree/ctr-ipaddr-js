@@ -1,5 +1,7 @@
 # ctr-ipaddr-js
 [![Build Status](https://travis-ci.org/crabtree/ctr-ipaddr-js.svg?branch=master)](https://travis-ci.org/crabtree/ctr-ipaddr-js)
+[![Maintainability](https://api.codeclimate.com/v1/badges/369491a92154d4431283/maintainability)](https://codeclimate.com/github/crabtree/ctr-ipaddr-js/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/369491a92154d4431283/test_coverage)](https://codeclimate.com/github/crabtree/ctr-ipaddr-js/test_coverage)
 
 ## Installation
 ```bash
