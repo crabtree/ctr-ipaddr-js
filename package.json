@@ -1,6 +1,6 @@
 {
   "name": "ctr-ipaddr",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Work with IPv4 addresses",
   "author": "Krystian Cieślik",
   "license": "MIT",
